@@ -1,7 +1,7 @@
 No projetoJefferson 1, foi feito um algoritmo simples utilizando a Criptografia de Cifra de César. O usuário é informado a inserir a mensagem no console do VSCode ou no CMD, e o algoritmo realiza a criptografia da mensagem, exibindo os dados resultantes de maneira incompreensível. Posteriormente, a descriptografia é realizada com base na mensagem cifrada e na chave de deslocamento, resultando na exibição da mensagem de forma legível.
 
 
-![Resultado](images/resultado.png)
+![Resultado](projetoJefferson1/images/resultado.png)
 
 
 Obs: Tive dificuldade em entender como funciona as bibliotecas de criptografia usada no desafio e entendo que seria melhor realizar de uma outra forma mais facil de entender.
